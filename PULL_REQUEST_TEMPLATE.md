@@ -8,7 +8,7 @@ _Describe how to test your changes_
 
 ## Link to Jira ticket
 
-[123 - Add Thingamajig](https://teamludoma.atlassian.net/browse/LHP-123)
+[123 - Add Thingamajig](https://teamludoma.atlassian.net/browse/BTS-123)
 
 ## Checklist
 
